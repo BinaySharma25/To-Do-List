@@ -140,8 +140,8 @@ ul li span{
 ul li span:hover{
     background: #edeef0 ;
 }
-}
 .bottom-footer{
+    
     display: flex;
     justify-content: center;
     align-items: center ;
@@ -150,6 +150,7 @@ ul li span:hover{
     font-size: 14px;
     margin-top: 10px;
 }
+
 @media (max-width: 600px) {
     .todo-app {
       width: 90%;
